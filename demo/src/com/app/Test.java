@@ -7,4 +7,9 @@ public class Test {
 		System.out.println("Login");
 	}
 
+    public void m2()
+	{
+		System.out.println("m1 method");
+	}
+	
 }
